@@ -5,9 +5,10 @@ Welcome to the Light-Projects repository! Here, I'll be sharing various projects
 ## Projects
 
 ### Project One: [Credit Card Approval]
-- **Description:** This project decides wheather a person is worthy for the credit card approval or not based on various columns such as age, income,....etc.
-- **Technologies Used:** python, sklearn, pandas.
-- **Key Learnings:** Dealing with outliers and imbalanced datasets, practive on using different types of graphs.
-- **Project Link:** Provide a link to the specific project folder or file.
+- **Description:** This project assesses an individual's eligibility for credit card approval based on various factors such as age, income, and more. It employs machine learning techniques to make informed decisions.
+- **Technologies Used:** Python, Scikit-learn, Pandas.
+- **Key Learnings:** In this project, I tackled challenges related to outliers and imbalanced datasets. Additionally, I gained practical experience in creating different types of graphs to visualize and interpret the data effectively.
+- **Project Link:** [Credit Card Approval Project](https://github.com/MuhamedGad/Light-Projects/tree/main/Classification_creditCard)
+
 
 
